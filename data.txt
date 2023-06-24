@@ -1,0 +1,101 @@
+<s> heluhelu au i nā puke i ka hola ʻeiwa </s>
+<s> wela ka lā i ka hola ʻumikūmamālua o ke awakea </s>
+<s> e heluhelu ʻoe i ka hapahā i hala ka hola ʻeono </s>
+<s> heluhelu ʻo ia i ka puke i ka hola ʻekolu o ke awakea </s>
+<s> e hoʻokaika kino kākou i ka hola ʻehia </s>
+<s> makemake ʻoe e hoʻokaika kino i ka ʻauinalā </s>
+<s> ʻo ka pōʻakolu ka lā ʻapōpō </s>
+<s> ʻo ka pōʻakolu kēia </s>
+<s> ʻo ka pōʻahia ka lā ʻapōpō </s>
+<s> ʻo ka pōʻakahi ka lā ʻapōpō </s>
+<s> ʻo nehinei kou lā hānau </s>
+<s> he lānui ka lā o ka hōʻike </s>
+<s> ʻo ka lāpule ka lā pōpeku </s>
+<s> aia ka hālāwai kauka ma ka lā ʻumi o malaki </s>
+<s> ʻo ka lā ʻehia o ianuali ka lā hōʻike </s>
+<s> ʻo kēia ka mahina ʻo ianuali </s>
+<s> pāʻani pōpeku kākou i ke kau hoʻoilo </s>
+<s> hoʻomoana ka poʻe i ke kau hoʻoilo </s>
+<s> ikiiki ʻo heʻeia i ke kau hāʻulelau </s>
+<s> hoʻomoana nā keiki i ke kau kupulau </s>
+<s> hoʻomoana kākou i ke kau wela ma waiʻanae </s>
+<s> nui ka ua i ke kau hāʻulelau </s>
+<s> wela ka hale i ke kau wela ma kona </s>
+<s> heʻe nalu au i ke kau wela ma waikīkī </s>
+<s> anuanu ka makani i ke kau hoʻoilo </s>
+<s> hula ka poʻe i ke kau kupulau ma hilo </s>
+<s> aia ka huakaʻi i ke kau hāʻulelau </s>
+<s> ʻoluʻolu ʻo maui i ke kau kupulau </s>
+<s> hoʻomoana kākou i ke kau kupulau </s>
+<s> ʻo ka pōʻahia ka lā pōpeku </s>
+<s> aia ka hālāwai kauka ma ka lā ʻapōpō </s>
+<s> makemake ʻoe e hoʻokaika kino i ka hola ʻumikūmamālua o ke awakea </s>
+<s> e hoʻokaika kino i ka hola ʻehā </s>
+<s> heʻe nalu au i ka hapahā i hala ka hola ʻekahi </s>
+<s> nui ka ua i ke kau kupulau </s>
+<s> ʻo kēia ka mahina ʻo pepeluali </s>
+<s> ikiiki ʻo heʻeia i ke kau kupulau </s>
+<s> heʻe nalu au i ke kau kupulau </s>
+<s> ʻo ka lā ʻehia o ianuali ka lā ʻapōpō </s>
+<s> ʻo nehinei koʻu lā hānau </s>
+<s> hoʻomoana kākou i ke kau wela ma kona </s>
+<s> ʻo ka pōʻakahi ka lā ʻumi o malaki </s>
+<s> ʻo ka pōʻakolu ka lā pōpeku </s>
+<s> aia ka huakaʻi i ke kau kupulau </s>
+<s> heʻe nalu au i ke kau wela </s>
+<s> ʻo ka pōʻakahi ka lā o ka hōʻike </s>
+<s> ʻo nehinei ka pōʻakahi </s>
+<s> ʻo ka lā ʻehia ka lā ʻapōpō </s>
+<s> heʻe nalu au i ke kau hāʻulelau </s>
+<s> makemake ʻo ia e hoʻokaika kino i ka hola ʻeono </s>
+<s> makemake ʻoe e hoʻokaika kino </s>
+<s> aia ka huakaʻi i ke kau hoʻoilo </s>
+<s> hula ka poʻe i ke kau wela ma kona </s>
+<s> ʻo ka pōʻakolu ka lā ʻumi o malaki </s>
+<s> heʻe nalu au i ke kau hoʻoilo </s>
+<s> hoʻomoana nā keiki i ke kau hoʻoilo </s>
+<s> wela ka hale i ke kau kupulau </s>
+<s> makemake ʻoe e hoʻokaika kino i ke kau hoʻoilo </s>
+<s> heʻe nalu au </s>
+<s> ʻo ka pōʻakahi ka lā ʻekolu o malaki </s>
+<s> ʻo ka lā o ka hōʻike </s>
+<s> nui ka ua i ke kau hāʻulelau </s>
+<s> ʻo ka pōʻakahi kēia </s>
+<s> makemake au i ʻehiku manakō momona </s>
+<s> aia ʻumi ʻīlio ʻeleʻele ma ka pā pāʻani </s>
+<s> aia ʻelua ʻīlio ma ka hale </s>
+<s> he ʻulu nui kēia </s>
+<s> he puaʻa kālua kēia </s>
+<s> ʻo kaʻu ʻīlio kēia </s>
+<s> he puaʻa kālua kēlā </s>
+<s> aia ʻo kaʻiulani i hea </s>
+<s> aia ʻekolu pōpoki liʻiliʻi i ka pahu </s>
+<s> ʻo ka pōʻahia kēia </s>
+<s> ʻo ka pōʻakahi kēia </s>
+<s> ʻo ka pōʻakolu ka lā ʻaha mele </s>
+<s> aia ka ʻaha mele ma ka lā ʻapōpō </s>
+<s> aia ka ʻaha mele ma ka pōʻahia </s>
+<s> ʻo ka pōʻaono kēia </s>
+<s> ʻo koʻu lā hānau kēia </s>
+<s> ikiiki ʻo kona i ke kau kupulau </s>
+<s> heʻe nalu au i ke kau hoʻoilo ma kona </s>
+<s> he ʻulu liʻiliʻi kēia </s>
+<s> makemake ʻoe e hoʻokaika kino i ka hola ʻeono </s>
+<s> ʻo ka pōʻahia kēia </s>
+<s> aia ʻekolu pōpoki i ka pahu </s>
+<s> heʻe nalu au i ka hola ʻeono </s>
+<s> hoʻomoana nā keiki i ke kau kupulau </s>
+<s> ʻo kēia ka mahina ʻo malaki </s>
+<s> heluhelu ʻo ia i ke kau wela ma waikīkī </s>
+<s> heʻe nalu au i ka moana </s>
+<s> ʻo ka pōʻakahi ka lā ʻekolu o pepeluali </s>
+<s> aia ka ʻaha mele i ka lā ʻekolu </s>
+<s> ʻo nehinei kona lā hānau </s>
+<s> heluhelu ʻo ia i ka hola ʻehā </s>
+<s> e hoʻokaika kino i ka hola ʻekolu o ke awakea </s>
+<s> ʻo nehinei kona lā hānau </s>
+<s> he ʻīlio nui kēia </s>
+<s> heluhelu ʻo ia i ka hola ʻehia </s>
+<s> ʻoluʻolu ʻo heʻeia i ke kau kupulau </s>
+<s> he puaʻa kālua nui kēlā </s>
+<s> aia ka hālāwai kauka ma ka pōʻahia </s>
