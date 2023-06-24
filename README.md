@@ -14,7 +14,7 @@ Hoʻomoana kākou i ka hola ʻeono. "We all camp at six o'clock."
 ʻO kēia ka mahina ʻo Malaki. "This is the month, March."  
 Aia ka ʻaha mele ma ka hale. "The concert is at the house."  
 E hoʻokaika kino i ka lā ʻapōpō. "Work out tomorrow."  
-Makemake ʻoe e hoʻokaika kino i ka lā pōpeku. "Do you want to work out the day of the football game?"  
+Makemake ʻoe e hoʻokaika kino i ka lā pōpeku? "Do you want to work out the day of the football game?"  
 
 Strange outputs:  
 Ikiiki ʻo Heʻeia i ke kau kupulau ma Hilo. "It's humid in He'eia in the springtime in Hilo."  
